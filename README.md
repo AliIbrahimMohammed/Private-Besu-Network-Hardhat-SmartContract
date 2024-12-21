@@ -1,6 +1,3 @@
-Here’s a detailed and effective `README.md` for your GitHub repository:
-
-```markdown
 # Private Ethereum Network with Besu and Hardhat
 
 This repository provides a step-by-step guide to set up a private Ethereum network using [Besu](https://besu.consensys.net/), connect it to [Hardhat](https://hardhat.org/), deploy a smart contract to the network, and interact with the contract. Perfect for developers looking to create and test decentralized applications (DApps) in a private environment.
