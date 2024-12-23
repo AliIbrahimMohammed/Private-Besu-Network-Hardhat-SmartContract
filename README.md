@@ -15,7 +15,7 @@ This project demonstrates how to deploy and interact with a smart contract on a 
 First, clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Private-Besu-Network-Hardhat-SmartContract.git
+git clone https://github.com/AliIbrahimMohammed/Private-Besu-Network-Hardhat-SmartContract.git
 cd Private-Besu-Network-Hardhat-SmartContract
 ```
 
@@ -187,7 +187,3 @@ Here are some commands you can use with Hardhat:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-### Save this as `README.md` in your project root.
-
-This README provides a clear and concise guide for setting up and using the project. Let me know if you need further adjustments!
